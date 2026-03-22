@@ -1,14 +1,14 @@
 {
   "name": "24_7Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "24_7Bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "necacampelicee.aternos.me",
-    "port": 50850,
-    "version": "1.20.1"
+    "ip": "JoiDamLaCoi.aternos.me",
+    "port": 45393,
+    "version": "1.21.8"
   },
   "position": {
     "enabled": true,
