@@ -8,7 +8,7 @@
   "server": {
     "ip": "JoiDamLaCoi.aternos.me",
     "port": 45393,
-    "version": "1.21.8"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
